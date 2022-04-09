@@ -1,4 +1,4 @@
-# links.me  (private)
+# linksme
 
 Social bookmarking.
 Social Links.
@@ -9,3 +9,5 @@ This is an open source project that serves as a free alternative to the Linktree
 
     Demo - http://www.linktr.ee/VE3SP 
     
+link.me  (private)
+

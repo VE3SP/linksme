@@ -1,6 +1,11 @@
-# linksme
-A unique linking like the website  
+# links.me  (private)
+
+Social bookmarking.
+Social Links.
+
+A unique linking to social website  
 
 This is an open source project that serves as a free alternative to the Linktree website.
 
-    Demo - http://www.linktr.ee/VE3SP
+    Demo - http://www.linktr.ee/VE3SP 
+    

@@ -12,8 +12,3 @@ This is an open source project that serves as a free alternative to the Linktree
 link.me  (private)
 
 
-www.C4FM.ca 
-
-www.FN03.ca   (grid square) 
-
-
